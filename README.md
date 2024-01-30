@@ -17,7 +17,7 @@ The API is a RESTful API that uses JSON as its communication format.
 Below you will find a description of the API endpoints and how to use them.
 
 ```http
-GET https://thetruestory.news/api/widget/main?edition=ru&limit=20&period=24hd&with_snippets=1&with_icons=1
+GET https://thetruestory.news/api/widget/main?edition=ru&limit=20&period=24h&with_snippets=1&with_icons=1
 ```
 
 | Parameter       | Type     | Description                                                                                      |
